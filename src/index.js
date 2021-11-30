@@ -19,7 +19,9 @@ const main = document.querySelector('.home');
 main.addEventListener('click', e => {
     e.target.style.backgroundColor = 'black';
     e.target.style.color = 'white';
+    e.preventDefault();
 })
+
 
 window.addEventListener('wheel', e => {
     e.target.style.fontSize = '32px';
@@ -50,3 +52,4 @@ window.addEventListener('mousemove', () => {
 window.addEventListener('volumechange', () => {
     alert('why?');
 })
+
