@@ -10,7 +10,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 * [ ] Clone your OWN version of the repository.
 * [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
 * [ ] Implement the project on your newly created branch, committing changes regularly.
-* [ ] Push commits: `git push origin <firstName-lastName>`.
+* [ ] Push commits: `git push origin darrion-white`.
 
 ## Running the project
 
